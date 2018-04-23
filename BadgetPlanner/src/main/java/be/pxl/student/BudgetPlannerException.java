@@ -4,7 +4,7 @@ package be.pxl.student;
  * Hello world!
  *
  */
-public class App 
+public class BudgetPlannerException
 {
     public static void main( String[] args )
     {
